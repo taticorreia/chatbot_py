@@ -1,0 +1,76 @@
+id;mensagem;tipo
+1;bom dia;saudacao
+2;boa tarde;saudacao
+3;boa noite;saudacao
+4;olá;saudacao
+5;oi;saudacao
+6;oi tudo bem?;saudacao
+7;olá tudo bem?;saudacao
+8;bom dia. Tudo bem?;saudacao
+9;boa tarde. Tudo bem?;saudacao
+10;boa noite. Tudo bem?;saudacao
+11;como vai?;saudacao
+12;como vai? Tudo bem?;saudacao
+13;tchau;saudacao
+14;até mais;saudacao
+15;até logo;saudacao
+16;até mais obrigado;saudacao
+17;até logo obrigado;saudacao
+18;adeus obrigado;saudacao
+19;obrigado;saudacao
+20;eu quero saber a data da prova;avaliacoes
+21;eu gostaria de saber a data da prova;avaliacoes
+22;quando é a prova?;avaliacoes
+23;quado vai ser a prova?;avaliacoes
+24;eu preciso da data da prova;avaliacoes
+25;quando vai ser a prova?;avaliacoes
+26;quando vai ser a prova final?;avaliacoes
+27;eu quero saber a data da prova sub;avaliacoes
+28;eu quero saber quando vai ser a prova substitutva;avaliacoes
+29;eu gostaria de saber a data da prova final;avaliacoes
+30;quando vai ser a avaliação final?;avaliacoes
+31;quado é a prova?;avaliacoes
+32;quando é a prova final?;avaliacoes
+33;qual é a data da avaliação;avaliacoes
+34;quando é a avaliação final?;avaliacoes
+35;vai ter  prova final?;avaliacoes
+36;vai ter prova?;avaliacoes
+37;vai ter avaliação?;avaliacoes
+38;quando vai ser a data da prova?;avaliacoes
+39;não consigo pagar meu boleto;pagamento
+40;meu boleto está vencido. Como eu faço?;pagamento
+41;eu preciso da segunda via do boleto;pagamento
+42;como eu pego a segunda via do boleto?;pagamento
+43;onde eu pego o boleto?;pagamento
+44;onde eu baixo o boleto?;pagamento
+45;como eu faço para baixar o boleto?;pagamento
+46;como eu faço para pagar o boleto?;pagamento
+47;como eu pego o boleto para pagar?;pagamento
+48;preciso pagar a mensalidade;pagamento
+49;eu não recebi o boleto;pagamento
+50;eu preciso pagar mas não tenho o boleto;pagamento
+51;eu preciso pagar mas preciso do boleto;pagamento
+52;eu quero pagar mas preciso do boleto;pagamento
+53;eu não tenho o boleto pra pagar;pagamento
+54;o boleto não chegou para pagar;pagamento
+55;como eu pago o boleto?;pagamento
+56;eu não tenho o boleto;pagamento
+57;como eu faço o pagamento?;tutoria
+58;eu não entendi a série de taylor;tutoria
+59;eu estou em dúvida sobre integrais;tutoria
+60;estou em dúvida sobre integrais;tutoria
+61;estou com dificuldade para resolver exercicio 5;tutoria
+62;não consigo resolver o exercicio 4. pode me ajudar?;tutoria
+63;pode me explicar derivadas?;tutoria
+64;eu não consigo resolver o exercicio 3 de derivadas;tutoria
+65;eu preciso de ajuda com derivadas;tutoria
+66;eu preciso de um auxílio com limites;tutoria
+67;eu não entendi a aula 12;tutoria
+68;o material está confuso e não entendi a explicação;tutoria
+69;o material tem erros poderia corrigir;tutoria
+70;o conteudo não ficou claro na videoaula;tutoria
+71;não entendi a abordagem do professor;tutoria
+72;não entendi o conteúdo;tutoria
+73;a explicação ficou confusa;tutoria
+74;não consigo resolver os exercicios;tutoria
+75;os exercicios são mais complicados e não são explicados nas aulas;tutoria
